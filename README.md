@@ -80,3 +80,6 @@ php artisan key:generate
 
 Acesse o projeto
 [http://localhost:8180](http://localhost:8180)
+
+reseta o redis para que sua aplicação funcione em caso de erro
+docker-compose restart redis 
