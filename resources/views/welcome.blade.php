@@ -8,38 +8,38 @@
 <div class="container">
     <div class="row mt-5">
         <div class="col">
-            <img src="img/carro2.jpeg" alt="Carro">
-            <h3 class="text-center">Polo</h3>
+            <img src="img/animal1.jpeg" alt="Carro">
+            <h3 class="text-center">Tucano</h3>
             <p class="mt-2">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati minus iusto aperiam ipsa illo nihil at quaerat, magni alias recusandae, eum error cupiditate nam quis facere nostrum vitae deleniti voluptatibus.</p>
         </div>
 
         <div class="col">
-            <img src="img/carro1.jpeg" alt="Carro">
-            <h3 class="text-center">Renaul</h3>
+            <img src="img/animal2.jpeg" alt="Carro">
+            <h3 class="text-center">Cachorro</h3>
             <p class="mt-2">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati minus iusto aperiam ipsa illo nihil at quaerat, magni alias recusandae, eum error cupiditate nam quis facere nostrum vitae deleniti voluptatibus.</p>
         </div>
 
         <div class="col">            
-            <img src="img/carro3.jpeg" alt="Carro">
-            <h3 class="text-center">Vectra</h3>
+            <img src="img/animal3.jpeg" alt="Carro">
+            <h3 class="text-center">Elefante</h3>
             <p class="mt-2">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati minus iusto aperiam ipsa illo nihil at quaerat, magni alias recusandae, eum error cupiditate nam quis facere nostrum vitae deleniti voluptatibus.</p>
         </div>
 
         <div class="col">
-            <img src="img/carro4.jpeg" alt="Carro">
-            <h3 class="text-center">Gol</h3>
+            <img src="img/cobra.jpeg" alt="Carro">
+            <h3 class="text-center">Cobra</h3>
             <p class="mt-2">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati minus iusto aperiam ipsa illo nihil at quaerat, magni alias recusandae, eum error cupiditate nam quis facere nostrum vitae deleniti voluptatibus.</p>
         </div>
 
         <div class="col">
-            <img src="img/carro5.jpeg" alt="Carro">
-            <h3 class="text-center">Mercedes</h3>
+            <img src="img/coelho.jpeg" alt="Carro">
+            <h3 class="text-center">Coelho</h3>
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati minus iusto aperiam ipsa illo nihil at quaerat, magni alias recusandae, eum error cupiditate nam quis facere nostrum vitae deleniti voluptatibus.</p>
         </div>
 
         <div class="col">
-            <img src="img/carro1.jpeg" alt="Carro">
-            <h3 class="text-center">Ferrari</h3>
+            <img src="img/coruja.jpeg" alt="Carro">
+            <h3 class="text-center">Coruja</h3>
             <p class="mt-2">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Obcaecati minus iusto aperiam ipsa illo nihil at quaerat, magni alias recusandae, eum error cupiditate nam quis facere nostrum vitae deleniti voluptatibus.</p>
         </div>
     </div>
