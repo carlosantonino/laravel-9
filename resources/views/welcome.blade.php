@@ -4,7 +4,7 @@
 
     @section('content')
 
-    <h1 class="text-center mt-4">Veículos de aluguel</h1>
+    <h1 class="text-center mt-4">Mundo animal</h1>
 <div class="container">
     <div class="row mt-5">
         <div class="col">
