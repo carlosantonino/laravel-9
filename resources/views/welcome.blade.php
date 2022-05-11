@@ -7,7 +7,7 @@
     <div class="container">
         <h1 class="mt-5 mb-4">Lista de Produtos</h1>
 
-        <div class="row">
+        <div class="row align-items-center">
             <div class="col">
                 <img class="img" src="img/maquina.jpg" alt="">
                 <h6 class="mt-2">Máquina de Cortar Cabelo</h6>
